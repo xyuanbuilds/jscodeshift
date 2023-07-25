@@ -625,7 +625,7 @@ Once this has been added to the configuration
 - [Retain leading comment(s) in file when replacing/removing first statement](recipes/retain-first-comment.md)
 
 [npm]: https://www.npmjs.com/
-[Mozilla Parser API]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API
+[Mozilla Parser API]: http://udn.realityripple.com/docs/Mozilla/Projects/SpiderMonkey/Parser_API
 [recast]: https://github.com/benjamn/recast
 [ast-types]: https://github.com/benjamn/ast-types
 [ast-explorer]: http://astexplorer.net/
